@@ -1,8 +1,8 @@
 ### Hello, world! 👋
-No ano de 2017 utilizei [Portugol](linkPortugol) (pseudocódigo) para dar o meu primeiro Hello World 😅. Nesse mesmo ano, iniciei meus estudos com algoritmos na plataforma de ensino [Curso em Vídeo](linkCursoEmVideo), orientado por [@gustavoguanabara](linkGuanabara) 🖖.
+No ano de 2017 utilizei [Portugol][linkPortugol] (pseudocódigo) para dar o meu primeiro Hello World 😅. Nesse mesmo ano, iniciei meus estudos com algoritmos na plataforma de ensino [Curso em Vídeo][linkCursoEmVideo], orientado por [@gustavoguanabara][linkGuanabara] 🖖.
 
 ### Desde então...
-- 📚 Pelo [Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Santa Cruz (IFRN-SC)](linkIfrn), curso o ensino médio na forma integrada, Técnico de Nível Médio em Informática (2017-2021*)
+- 📚 Pelo [Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Santa Cruz (IFRN-SC)][linkIfrn], curso o ensino médio na forma integrada, Técnico de Nível Médio em Informática (2017-2021*)
     - Esses anos pelo IFRN-SC estão sendo muito importante para mim. Venho tendo muitas experiências na área da programação em áreas como:
         - Primeiro contato com linguagens de programação (Java, Python etc) 
         - Banco de dados;
@@ -25,4 +25,3 @@ No ano de 2017 utilizei [Portugol](linkPortugol) (pseudocódigo) para dar o meu 
 [linkCursoEmVideo]: https://www.cursoemvideo.com/
 [linkPortugol]: http://lite.acad.univali.br/portugol
 [linkIfrn]: https://portal.ifrn.edu.br/campus/santacruz
-
