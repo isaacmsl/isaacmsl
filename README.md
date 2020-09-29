@@ -3,7 +3,7 @@ No ano de 2017 utilizei [Portugol][linkPortugol] (pseudocódigo) para dar o meu 
 
 ### Desde então...
 - 📚 Pelo [Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Santa Cruz (IFRN-SC)][linkIfrn], curso o ensino médio na forma integrada, Técnico de Nível Médio em Informática (2017-2021*)
-    - Esses anos pelo IFRN-SC estão sendo muito importante para mim. Venho tendo muitas experiências na área da programação em áreas como:
+    - Esses anos pelo IFRN-SC estão sendo muito importante para mim. Venho tendo muitas experiências, como:
         - Primeiro contato com linguagens de programação (Java, Python etc) 
         - Banco de dados;
         - Robótica Competitiva;
