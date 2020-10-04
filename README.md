@@ -1,4 +1,8 @@
 ### Hello, world! 👋
+
+[![Discord](https://img.shields.io/discord/761669041760501760?label=Comunidade+Dev+IFRN&style=plastic)](https://discord.com/invite/Qk23Txv)
+
+
 No ano de 2017 utilizei [Portugol][linkPortugol] (pseudocódigo) para dar o meu primeiro Hello World 😅. Nesse mesmo ano, iniciei meus estudos com algoritmos na plataforma de ensino [Curso em Vídeo][linkCursoEmVideo], orientado por [@gustavoguanabara][linkGuanabara] 🖖.
 
 ### Desde então...
