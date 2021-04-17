@@ -1,29 +1,9 @@
-### Hello, world! 👋
+<h1 align="center">Hello there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Isaac Lourenço</h1>
+<h3 align="center">A student developer from Brazil</h3>
 
-[![Discord](https://img.shields.io/discord/761669041760501760?label=Comunidade+Dev+IFRN&style=plastic)](https://discord.com/invite/Qk23Txv)
-
-
-No ano de 2017 utilizei [Portugol][linkPortugol] (pseudocódigo) para dar o meu primeiro Hello World 😅. Nesse mesmo ano, iniciei meus estudos com algoritmos na plataforma de ensino [Curso em Vídeo][linkCursoEmVideo], orientado por [@gustavoguanabara][linkGuanabara] 🖖.
-
-### Desde então...
-- 📚 Pelo [Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Santa Cruz (IFRN-SC)][linkIfrn], curso o ensino médio na forma integrada, Técnico de Nível Médio em Informática (2017-2021*)
-    - Esses anos pelo IFRN-SC estão sendo muito importante para mim. Venho tendo muitas experiências, como:
-        - Primeiro contato com linguagens de programação (Java, Python etc) 
-        - Banco de dados;
-        - Robótica Competitiva;
-        - Noções básicas de engenharia de software;
-        - Desenvolvimento web;
-        - Git e Github! 😇  etc.
-- 🌱 Atualmente estou me aprofundando em aplicações web com foco em Javascript e suas tecnologias;
-- Em um futuro próximo pretendo cursar Engenharia de Software 😬 
-
----
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=isaacmsl&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmsl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- Started programming at 2017 with [@gustavoguanabara][linkGuanabara] 🖖
+- 🎓 Basic Computer Technician at [IFRN](linkIfrn) (2017–2021)
+- ❤️ In love with Web Applications since 2020
 
 [linkGuanabara]: https://github.com/gustavoguanabara
 [linkCursoEmVideo]: https://www.cursoemvideo.com/
