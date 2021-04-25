@@ -3,6 +3,7 @@
 
 - Started programming at 2017 with [@gustavoguanabara][linkGuanabara] 🖖
 - 🎓 Basic Computer Technician at [IFRN](linkIfrn) (2017–2021)
+- 📚 Undergraduate student of Bachelor of Information Technology at the Federal University of Rio Grande do Norte (UFRN)
 - ❤️ In love with Web Applications since 2020
 
 [linkGuanabara]: https://github.com/gustavoguanabara
