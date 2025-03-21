@@ -24,7 +24,7 @@ I'm developing a LLM based Chatbot using WhatsApp, OpenAI and LangGraph.
 <hr>
 
 <h5>☀️ Sunnergy</h5> (<i>feb 2024 · 1 month</i>)
-<p>I develop a landing page to the business using PHP.</p>
+<p>I developed a landing page to the business using PHP.</p>
 
 [Check the landing page](https://sunnergy.com.br/)
 
