@@ -1,8 +1,6 @@
 <h1 align="center">Hello there, I'm Isaac :)</h1>
-<h3 align="center">Full developer from Brazil</h3>
 
-I started learning programming at 2017 with [@gustavoguanabara][linkGuanabara] 🖖 and since that I had some interesting experiences in web development, AI and robotics.
-I'm a Basic Computer Technician from [IFRN](linkIfrn) and currently pursuing a bachelor's degree in Information Technology at [IMD](linkIMD).
+Currently working with AI Agents (2024 - nowdays). Experiences in advanced tecnhiques in the context of chatbots: multi-agent architecture, checkpoints, human-in-the-loop and observability. Bachelor in Information Technology at [IMD](linkIMD).
 
 <h3>Languages</h3>
 
