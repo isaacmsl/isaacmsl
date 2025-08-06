@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Isaac :)</h1>
 
-Currently working with AI Agents (2024 - nowdays). Experiences in advanced techniques in the context of chatbots: multi-agent architecture, checkpoints, human-in-the-loop and observability. Bachelor in Information Technology at [IMD](linkIMD).
+Currently working with AI Agents (2024 - nowdays). Experiences in advanced techniques in the context of chatbots: multi-agent architecture, checkpoints, human-in-the-loop and observability. Bachelor in Information Technology at [IMD](linkIMD). Currently pursuing a Bachelor's degree in Computer Science (2025 - 2027).
 
 <h3>Languages</h3>
 
