@@ -12,7 +12,7 @@ Currently working with AI Agents (2024 - nowdays). Experiences in advanced techn
 
 <h3>Professional experience</h3>
 
-<h5>🤖 Intelligent Chatbot Nísia</h5> (<i>mar 2024 - today · 10 months</i>)
+<h5>🤖 Intelligent Chatbot Nísia</h5> (<i>mar 2024 - nowdays</i>)
 <p>
 I'm developing a LLM based Chatbot using WhatsApp, OpenAI and LangGraph.
 </p>
